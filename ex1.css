@@ -1,0 +1,41 @@
+.container {
+    display: grid;
+    align-items:;
+    grid-template-columns: auto auto auto;
+}
+.p1 {
+    display: grid;
+    grid-template-columns: 200px 300px ;
+    width: 500px;
+}
+.p2 {
+    display: grid;
+    grid-template-columns: 200px 300px ;
+width: 500px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+}
+.p3 {
+
+    display: grid;
+    grid-template-columns: 200px 300px ;
+width: 500px;
+}
+h1 {
+    font-style: italic;
+    font-size: 20px; padding-left: 5px;
+}
+
+.img2 {
+height: 30px;
+width: 30px;
+border-radius: 10px;
+}
+.A {
+    display: flex;
+    align-items:center ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
